@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Quick COVID-19 Diagnostic</string>
+    <string name="Info">
+        This application help you checking if you are suspected to have COVID-19.
+        \n\n
+        This is not 100% accurate and suspected does not mean confirmed.
+        \n\n
+        The questions are based on symptoms of COVID-19 from CDC.
+        \n\n
+        Not suspected to have COVID-19 does not mean you are free from Social distance.
+        \n\n
+        This program is not responsible for any decision you make from this information.
+        \n\n
+        Use this program just as information, make sure to have conversation with your doctor.
+    </string>
+    <string name="credit">Made by - Hyeonwoo Heo, Sukmin Hong</string>
+    <string name="question1">Question 1. Do you have fever or chill?</string>
+    <string name="question2">Question 2. Do you cough often?</string>
+    <string name="question3">Question 3. Are you having difficulty in breathing than usual?</string>
+    <string name="question4">Question 4. Do you get tired easily(Fatigue)?</string>
+    <string name="question5">Question 5. Do you have muscle or body aches?</string>
+    <string name="question6">Question 6. Do you have headache?</string>
+    <string name="question7">Question 7. Are you having loss of taste or smell?</string>
+    <string name="question8">Question 8. Do you have congestion or runny nose?</string>
+    <string name="question9">Question 9. Do you vomit or felt nausea often?</string>
+    <string name="question10">Question 10. Do you have sore throat?</string>
+    <string name="question11">Question 11. Do you have trouble breathing\n(extreme difficulty)?</string>
+    <string name="question12">Question 12. Do you have persistent pain\n or pressure in the chest??</string>
+    <string name="question13">Question 13. Do you feel disoriented and confusing?</string>
+    <string name="question14">Question 14. Are you unable to wake up? or \n Are you unable to sleep?(Happened in 2 weeks)</string>
+    <string name="question15">Question 15. Do you have Bluish lips or face?</string>
+    <string name="ending2">
+        You might be infected.
+        \n
+        You can stay home to see if you get more symptoms.
+        \n
+        But recommend to Go to near local emergency facility for diagnose test.
+        \n
+        Before you visit local emergency facility, Make sure to notify that you may have COVID-19
+    </string>
+    <string name="ending1">
+        You do not seems like you are infected.
+        \n
+        Stay home and see if you get more symptoms.
+        \n
+        Keep social distance and stay home!
+    </string>
+    <string name="ending3">
+        You are suspected to have COVID-19!
+        \n
+        Go to near local emergency facility for diagnose test.
+        \n
+        Before you visit local emergency facility, Make sure to notify that you may have COVID-19
+    </string>
+    <string name="ending4">
+        CDC says You need medical care NOW!!!
+        \n
+        Go to local emergency facility!!
+        \n
+        Before you go, Call 911 or local emergency facility, and Nofity that you may have COVID-19.
+    </string>
+</resources>
