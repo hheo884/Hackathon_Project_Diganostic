@@ -15,8 +15,8 @@ public class Status {
     }
 
     public void increaseCount(int x){
-        Log.d("covid-19", "count: " + count);
         count+= x;
+        Log.d("covid-19", "count: " + count);
     }
 
     public int getCount(){
